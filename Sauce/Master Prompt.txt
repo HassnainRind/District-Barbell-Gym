@@ -1,0 +1,424 @@
+ROLE & OBJECTIVE
+
+You are a senior award-winning web designer and front-end developer. Your task is to design and build a premium, high-conversion gym website that feels intense, modern, and performance-driven.
+
+This is NOT a generic gym website. Avoid templates, avoid card grids, avoid boring layouts.
+
+The design must feel like
+
+A high-performance training brand
+
+Energetic, bold, slightly aggressive
+
+Built to convert visitors into memberships
+
+Primary goal Get users to sign up  join membership
+
+BRAND IDENTITY
+
+Name Iron Forge Gym
+Location Chicago, Illinois
+
+Tagline
+“Built Strong. Trained Hard. Forged Different.”
+
+Brand Personality
+
+Intense
+
+Disciplined
+
+Modern
+
+Masculine but clean
+
+High-performance
+
+COLOR SYSTEM (VERY IMPORTANT)
+
+Primary Accent
+
+#CEF952 (electric neon green)
+
+Base Colors
+
+#0A0A0A (main background)
+
+#111111 (sections)
+
+#FFFFFF (text)
+
+#9CA3AF (secondary text)
+
+Usage Rules
+
+Neon green ONLY for highlights, buttons, accents
+
+Do NOT overuse green
+
+Maintain strong contrast (black + white + neon)
+
+TYPOGRAPHY
+
+Headings
+
+Bold, condensed, uppercase (Bebas Neue  Oswald style)
+
+Body
+
+Clean sans-serif (Inter)
+
+Style
+
+Big headlines
+
+Tight spacing
+
+Aggressive hierarchy
+
+GLOBAL DESIGN STYLE
+
+No basic grids everywhere
+
+Use
+
+Split layouts
+
+Horizontal scroll sections
+
+Marquee strips
+
+Overlapping elements
+
+Full-width sections
+
+Strong visual rhythm
+
+Avoid
+
+Repetitive cards
+
+Symmetrical boring layouts
+
+“Template look”
+
+ANIMATIONS (MANDATORY)
+
+Use
+
+Lenis (smooth scroll)
+
+GSAP (scroll animations)
+
+Effects
+
+Fade + slide on scroll
+
+Text reveal animations
+
+Image scale on scroll
+
+Marquee scrolling text
+
+Hover distortions (subtle)
+
+Keep animations
+
+Smooth
+
+Fast
+
+Premium (not gimmicky)
+
+WEBSITE STRUCTURE (5 PAGES)
+
+Home
+
+Programs & Training
+
+Trainers
+
+Gallery
+
+Contact & Membership
+
+PAGE 1 — HOME (MOST IMPORTANT)
+HERO SECTION (FULL SCREEN)
+
+Background video or high-energy gym footage
+
+Dark overlay
+
+Left side
+Headline
+“FORGE YOUR STRONGEST BODY”
+
+Subtext
+“Elite training programs designed to push your limits and transform your physique.”
+
+Buttons
+
+Start Training
+
+View Programs
+
+Right side
+
+Large athlete image OR layered visuals
+
+Add subtle motion
+
+text reveal
+
+background zoom
+
+MARQUEE STRIP
+
+Scrolling horizontally
+“Strength • Discipline • Performance • Results • Transformation • Power”
+
+PROGRAMS (HORIZONTAL SCROLL — NOT GRID)
+
+Scrollable row of 4–5 programs
+
+Strength Training
+
+Fat Loss
+
+Boxing
+
+HIIT
+
+Personal Coaching
+
+Each
+
+Full image card
+
+Hover zoom
+
+Title overlay
+
+WHY CHOOSE US (SPLIT SECTION)
+
+Left
+Big text
+“NOT YOUR AVERAGE GYM”
+
+Right
+Short bullets
+
+Expert trainers
+
+Proven results
+
+High-end equipment
+
+Community-driven
+
+TRANSFORMATION SECTION
+
+Beforeafter style
+
+Big headline
+“REAL RESULTS”
+
+Use
+
+Slider or side-by-side images
+
+TRAINERS PREVIEW
+
+Horizontal scroll strip
+
+Trainer photos
+
+Name + role
+
+TESTIMONIALS (BOLD STYLE)
+
+Full-width quote (no cards)
+
+Large typography
+“This gym completely changed my life…”
+
+Auto-rotate with fade
+
+CTA SECTION (VERY STRONG)
+
+Full screen
+
+Headline
+“READY TO TRANSFORM”
+
+Button
+“Join Now”
+
+PAGE 2 — PROGRAMS & TRAINING
+
+Hero strong headline
+
+Sections
+
+Each program in alternating layout (image left  text right)
+
+Include
+
+Description
+
+Benefits
+
+Duration
+
+CTA button
+
+Add
+
+Comparison table (clean, not boring)
+
+PAGE 3 — TRAINERS
+
+Hero with bold statement
+
+Instead of grid
+
+Vertical stacked cards OR horizontal scroll
+
+Each trainer
+
+Photo
+
+Name
+
+Specialty
+
+Short bio
+
+Add hover interaction
+
+PAGE 4 — GALLERY (CREATIVE)
+
+DO NOT use standard grid.
+
+Use
+
+Masonry layout
+
+Mixed sizes
+
+Hover zoom
+
+Dark overlay + neon label
+
+Categories
+
+Training
+
+Equipment
+
+Members
+
+Atmosphere
+
+Add
+
+subtle animation on scroll
+
+PAGE 5 — CONTACT & MEMBERSHIP
+Layout
+
+Split screen
+
+LEFT
+
+Address
+
+Hours
+
+Phone
+
+RIGHT
+
+Form
+
+Name
+
+Email
+
+Goal
+
+Message
+
+MEMBERSHIP SECTION
+
+Highlight plans
+
+Basic
+
+Pro
+
+Elite
+
+Make middle plan emphasized
+
+FINAL CTA
+
+“Start Your Fitness Journey Today”
+
+MOBILE RESPONSIVENESS
+
+Must be perfect for
+
+Small phones
+
+Medium phones
+
+Tablets
+
+Rules
+
+Stack layouts vertically
+
+Keep buttons large
+
+Maintain spacing
+
+Smooth scroll performance
+
+UX DETAILS
+
+Sticky navbar
+
+Smooth transitions
+
+Fast loading
+
+Clean spacing
+
+No clutter
+
+WHAT TO AVOID
+
+Basic 3-column grids everywhere
+
+Repeated layouts
+
+Overuse of neon green
+
+Too much text
+
+Stocktemplate feel
+
+FINAL GOAL
+
+This website should feel
+
+Like a premium fitness brand
+
+Visually powerful
+
+Different from all previous sites
+
+Portfolio-worthy
+
+High-converting

@@ -1,0 +1,18 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": "(?i).*(httrack|wget|curl|python-requests|libwww|urllib|go-http-client|java|scrapy|apachebench|httpclient|gptbot|chatgpt-user|oai-searchbot|claudebot|claude-web|anthropic-ai|perplexitybot|google-extended|ccbot|bytespider|amazonbot|meta-externalagent|cohere-ai|webcopier|teleport|cyotek|sitesnagger|webzip|grabnet|offline.explorer|netvampire|pavuk|pcbrowser|getright|flashget|download.demon|go.zilla|surfbot|webreaper|xenu|nutch|ia_archiver|semrushbot|ahrefsbot|mj12bot|dotbot|rogerbot|megaindex|blexbot).*"
+        }
+      ],
+      "destination": "https://http.cat/403",
+      "permanent": false
+    }
+  ]
+}
